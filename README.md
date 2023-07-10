@@ -1,12 +1,14 @@
 # About
 This app is a simple Password Generator for Windows and Linux using English, Persian, Japanese, Greek, numbers and signs
+
 # Screen Shots
 
 ![image](https://github.com/amiraligpu/Password_Generator/assets/108950264/4dae1097-db18-424b-87e7-a38db50b4631)
 ![image](https://github.com/amiraligpu/Password_Generator/assets/108950264/a364ec6b-0b80-43ca-8398-f016d06e6f5a)
+# Credits
+[Powered by CustomTkinter GUI](https://github.com/TomSchimansky/CustomTkinter)
 
-
-
+[you can learn the teory of Password Manager with pythongeeks](https://pythongeeks.org/python-password-generator/)
 
 # How To Install
 
